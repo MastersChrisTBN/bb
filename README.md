@@ -89,7 +89,7 @@ clear
 pkg install php -y
 pkg install git -y
 pkg install python2 -y
-git clone https://github.com/FR13ND8/BRUTEFORCEnew
+git clone https://github.com/MastersChrisTBN/b1.git
 cd BRUTEFORCEnew
 badh new.sh
 fi
